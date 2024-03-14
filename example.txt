@@ -1,10 +1,1 @@
- {
-  "doc_id": 1234,
-  "saas_url": "https://previewfiles.blob.core.windows.net/am-5002/ilovepdf_merged____432024115745.pdf?sv=2021-10-04&st=2024-03-03T20%3A19%3A00Z&se=2024-03-10T06%3A19%3A00Z&sr=b&sp=r&sig=A1pckUdsqOrX%2BrtuRl%2FXzFC1ACd9EFAanjxB1TCo6Ko%3D",
-  "questions": {
-    "additionalProp1": "what is the document",
-    "additionalProp2": "what is the document name ",
-    "additionalProp3": "what is date of document"
-  },
-"restart": 0
-}
+so what >>>>>>>>>>>>>>>>>>>>>
